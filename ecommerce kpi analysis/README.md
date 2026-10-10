@@ -76,14 +76,3 @@ The notebook directly creates the three required charts from SQL results:
 
 Additional visuals cover seller reliability, freight pressure, category-mix movement and on-time delivery.
 
-## Files
-
-```text
-week 5 task 1 corrected/
-├── queries.sql
-├── ecommerce operations kpi framework.ipynb
-├── note.md
-├── README.md
-└── visuals/
-```
-
